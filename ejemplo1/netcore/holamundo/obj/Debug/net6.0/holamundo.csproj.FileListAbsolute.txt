@@ -1,0 +1,15 @@
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\bin\Debug\net6.0\holamundo.exe
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\bin\Debug\net6.0\holamundo.deps.json
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\bin\Debug\net6.0\holamundo.runtimeconfig.json
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\bin\Debug\net6.0\holamundo.dll
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\bin\Debug\net6.0\holamundo.pdb
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\obj\Debug\net6.0\holamundo.csproj.AssemblyReference.cache
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\obj\Debug\net6.0\holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\obj\Debug\net6.0\holamundo.AssemblyInfoInputs.cache
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\obj\Debug\net6.0\holamundo.AssemblyInfo.cs
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\obj\Debug\net6.0\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\obj\Debug\net6.0\holamundo.dll
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\obj\Debug\net6.0\refint\holamundo.dll
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\obj\Debug\net6.0\holamundo.pdb
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\obj\Debug\net6.0\holamundo.genruntimeconfig.cache
+C:\Users\juanc\OneDrive\Documentos\ServicioTelematicos2022\ejemplo1\netcore\holamundo\obj\Debug\net6.0\ref\holamundo.dll
